@@ -31,6 +31,8 @@ If you are interested in contributing to our open source project, you can make a
 * Suggesting Enhancements
 * Contributing changes (Bug fixes, Code Contributions and Pull Requests)
 
+These fall under the abbreviations "D.D.W" and "F.E.F" which stand for design, develop, discover:fix, enhance, and feature, respectively.
+
 ## Reporting Bugs
 
 The Offcourse platform is under continuous development. Bugs are a natural part of this process and so, when you spot one, please file a bug report (a GitHub issue) back to the community. If you know how to fix it yourself: great! We invite you to do so. Read the section 'contributing changes' below how it works. If not, we'd like you to give the needed info through the GitHub issue to us, so someone else can help fix it.
