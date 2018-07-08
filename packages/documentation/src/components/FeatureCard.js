@@ -32,8 +32,8 @@ export default class FeatureCard extends Component {
     const Stat = StatGroup.Stat;
     return (
       <StatGroup section="planning">
-        <Stat iconName="calendar" label={planning.due} />
-        <Stat iconName="clock" label={planning.duration} />
+        <Stat iconName="D.D.W" label={planning.due} />
+        <Stat iconName="F.E.F" label={planning.duration} />
         <Stat iconName={who.level} label={who.level} />
       </StatGroup>
     );
@@ -83,8 +83,8 @@ export default class FeatureCard extends Component {
             size="large"
           >
             {status !== COMPLETE
-              ? "Build This With Us"
-              : "We Already Finished This"}
+              ? "Build this with us!"
+              : "Completed. Any suggestions?"}
           </Button>
         </Group>
       </Group>
