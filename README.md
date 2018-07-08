@@ -20,10 +20,10 @@ Our aim is to help people grow as professionals. Offcourse focuses on 21st Centu
 ## Features
 
 - Course creation
-- Forking/ Copying courses
+- Forking: Copying and refining courses
 - Editing course material
 - Course storage on profile
-- Social sharing
+- Socia/Peer-sharing
 
 ## How to use Offcourse
 
